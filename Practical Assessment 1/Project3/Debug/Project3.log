@@ -1,0 +1,3 @@
+﻿  RandArray.cpp
+C:\Users\rjada\Desktop\CSC2040\Practical Assessment 1\Project3\RandArray.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project3.vcxproj -> C:\Users\rjada\Desktop\CSC2040\Practical Assessment 1\Project1\Debug\Project3.exe

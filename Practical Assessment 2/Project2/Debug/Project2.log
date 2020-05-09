@@ -1,0 +1,8 @@
+﻿  Project2.cpp
+C:\Users\rjada\Desktop\CSC2040\Practical Assessment 2\Project2\Project2.cpp(37,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rjada\Desktop\CSC2040\Practical Assessment 2\Project2\Project2.cpp(49): message : see reference to function template instantiation 'void print_array<std::string>(T *,int)' being compiled
+          with
+          [
+              T=std::string
+          ]
+  Project2.vcxproj -> C:\Users\rjada\Desktop\CSC2040\Practical Assessment 2\AssessedPractical2\Debug\Project2.exe

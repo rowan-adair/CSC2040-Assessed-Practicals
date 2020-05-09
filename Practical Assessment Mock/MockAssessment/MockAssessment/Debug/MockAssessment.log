@@ -1,0 +1,4 @@
+﻿  takehome_main.cpp
+C:\Users\rjada\Desktop\CSC2040\Practical Assessment Mock\MockAssessment\MockAssessment\takehome_main.cpp(73,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\rjada\Desktop\CSC2040\Practical Assessment Mock\MockAssessment\MockAssessment\takehome_main.cpp(102,20): warning C4018: '<': signed/unsigned mismatch
+  MockAssessment.vcxproj -> C:\Users\rjada\Desktop\CSC2040\Practical Assessment Mock\MockAssessment\Debug\MockAssessment.exe
